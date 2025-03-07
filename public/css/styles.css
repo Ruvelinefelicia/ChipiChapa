@@ -1,4 +1,4 @@
-body {
+git body {
     background: linear-gradient(135deg, #fdd3e9, #ffb6c1);
     color: #d63384;
     font-family: 'Quicksand', sans-serif;
@@ -28,7 +28,7 @@ body {
     align-items: center;
 }
 
-/* Button Styling */
+
 button {
     background-color: #ff5f9e;
     color: white;
